@@ -4,4 +4,3 @@ Module.Prompt({ invite = "https://discord.gg/sdCSmXRjuX", name = "Lightux" }) --
 
 Module.Join("https://discord.gg/sdCSmXRjuX")
 
-[text.txt](https://github.com/cool83birdcarfly02six/fsfv832vwaww/files/10299778/text.txt)
